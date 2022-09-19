@@ -1,4 +1,4 @@
-# Pars-OFF
+# Pars-OFF Dataset
 This dataset is the first dataset for offensive detection in Farsi social media.
 In this repository, we present the first dataset for offensive detection in Farsi social media.
 
@@ -6,7 +6,8 @@ The following is the demonstrates how to use Pars-OFF corpus associated files:
 
 Pars-OFF corpus generally consists of 3 main parts:
 
-Part 1 (Pars-OFF) consists of following files:
+<h1>Part 1 (Pars-OFF)</h1> consists of following files:
+
 	Pars-OFF_all
 	Pars-OFF_levela_train
 	Pars-OFF_levela_test
@@ -15,12 +16,15 @@ Part 1 (Pars-OFF) consists of following files:
 	Pars-OFF_levelc_train
 	Pars-OFF_levelc_test
 
-Part 2 (Pars-OFF_ASPECT) consists of following files:
+
+<h1>Part 2 (Pars-OFF_ASPECT)</h1> consists of following files:
+
 	Pars-OFF_aspect_train
 	Pars-OFF_aspect_test
 	Pars-OFF_aspect
 
-Part 3 (Pars-OFF_KEY) consists of following file:
+<h1>Part 3 (Pars-OFF_KEY)</h1> consists of following file:
+
 	Pars-OFF_KEY
 
 
