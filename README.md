@@ -5,6 +5,7 @@ In this repository, we present the first dataset for offensive detection in Fars
 The following is the demonstrates how to use Pars-OFF corpus associated files:
 
 Pars-OFF corpus generally consists of 3 main parts:
+
 Part 1 (Pars-OFF) consists of following files:
 	Pars-OFF_all
 	Pars-OFF_levela_train
