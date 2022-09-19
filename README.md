@@ -31,7 +31,6 @@ Part 1: in this part Pars-OFF corpus is categorized into 3 levels as described i
 	‘OFF’ and ‘NOT’ values. Third column is ‘level_b’ which can contain ‘TIN’, ‘UNT’ and NULL in case of 
 	‘NOT’ in ‘level_a’ and Fourth column is ‘level_c’ that contains ‘IND’, ‘GRP’, ‘OTH’ and NULL in case of
 	‘NOT’ in ‘level_a’ or ‘UNT’ in ‘level_b’.
-	
 	Pars-OFF_level*_train and Pars-OFF_level*_test: Each level of Pars-OFF corpus is divided into two 
 	separate files of train and test, that train consists of 90% and test contains 10% of all the data.
 	In each file, first column is ‘tweet’ that contains tweet text, and the second column is ‘label’ that 
@@ -40,7 +39,6 @@ Part 1: in this part Pars-OFF corpus is categorized into 3 levels as described i
 Part 2: in this part targets of Level 3 of Pars-OFF corpus is  annotated. 
 	Pars-OFF_aspect_train and Pars-OFF_aspect_test: These two files are corresponding with 
 	Pars-OFF_levelc_train and Pars-OFF_levelc_test which all the targets are annotated as $Target$.
-	
 	Pars-OFF_aspect: for each annotated targets from level 3 of Pars-OFF_all, 3 lines are given. First 
 	line consists of tweet that is related to target which target is replaced with $T$. At second line, 
 	target is given and at third line, related label of level 3 is given.
