@@ -25,6 +25,7 @@ Part 3 (Pars-OFF_KEY) consists of following file:
 
 
 Parts descriptions:
+
 Part 1: in this part Pars-OFF corpus is categorized into 3 levels as described in main paper.
 	Pars-OFF_all: first column is ‘tweet’ that contains tweet text, second is ‘level_a’ which can contain
 	‘OFF’ and ‘NOT’ values. Third column is ‘level_b’ which can contain ‘TIN’, ‘UNT’ and NULL in case of 
